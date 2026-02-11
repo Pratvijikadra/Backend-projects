@@ -1,5 +1,3 @@
-#=====upload on github =====#
-
 # =>> Mini project using all OOPs concepts
 
 from abc import ABC, abstractmethod
@@ -83,5 +81,6 @@ print("------------")
 
 Account.bank_rules()
     
+
 
 
